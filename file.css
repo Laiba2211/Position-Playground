@@ -1,0 +1,64 @@
+
+    div{
+        height: 50px;
+        width: 60px;
+        color:blue;
+        background-color: aqua;
+        display:inline-block;
+        border: solid black;
+    }
+     #Box2{
+         position: relative;
+         top: 46px;
+         left: 6px;
+         text-align:center;
+     }
+     #Box4{
+        position: relative;
+         
+          bottom: 48px;
+          right: 6px;
+          text-align:center;
+
+     }
+     #Box1{
+        position: relative;
+        top: 92px;
+        left: 12px;
+        right: 7px;
+        bottom: 10px ;
+        text-align:center;
+     }
+     #Box3{
+        text-align:center;
+     }
+     #Box5{
+        position: relative;
+        bottom: 98px;
+        right: 2%;
+        text-align: center;
+     }
+     #Box6{
+            position:relative;
+            Bottom: 46px;
+            right: 23px;
+            text-align: center;
+            
+     }
+     #Box7{
+            position: relative;
+            right: 30px;
+    
+            top:3px;
+        
+     }
+     #Box8{
+            position: relative;
+            right: 35px;
+            top: 50px;
+     }
+     #Box9{
+         position:relative; 
+         right: 40px;
+         top: 98px;
+     }
